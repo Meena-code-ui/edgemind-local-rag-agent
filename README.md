@@ -202,6 +202,6 @@ Meenalochani Selvam
 LinkedIn: https://linkedin.com/in/meenalochani-selvam  
 Location: Chennai, India  
 
-Project Link: https://github.com/Meena-code-ui/edgemind-local-rag-agent
+Project Link: https://github.com/Meena-code-ui/Local_Rag_Agent
 
 ---
